@@ -64,8 +64,6 @@ Active Life Physiotherapy Clinic (ALPT) stands out as a leader in the field of p
 5. Register as a patient to access additional features such as appointment scheduling and session management.
 
 
-## Contributors <a name = "Contributors"></a>
-
 <table>
   <tr>
     <td align="center">
@@ -74,19 +72,19 @@ Active Life Physiotherapy Clinic (ALPT) stands out as a leader in the field of p
     <br />
     <sub><b>Muhannad Abdallah</b></sub></a>
     </td>
-  <td align="center">
+    <td align="center">
     <a href="https://github.com/AliBadran716" target="_black">
     <img src="https://avatars.githubusercontent.com/u/102072821?v=4" width="150px;" alt="Ali Badran"/>
     <br />
     <sub><b>Ali Badran</b></sub></a>
     </td>
-     <td align="center">
+    <td align="center">
     <a href="https://github.com/ahmedalii3" target="_black">
     <img src="https://avatars.githubusercontent.com/u/110257687?v=4" width="150px;" alt="Ahmed Ali"/>
     <br />
     <sub><b>Ahmed Ali</b></sub></a>
     </td>
-<td align="center">
+    <td align="center">
     <a href="https://github.com/hassanowis" target="_black">
     <img src="https://avatars.githubusercontent.com/u/102428122?v=4" width="150px;" alt="Hassan Hussein"/>
     <br />
@@ -98,5 +96,12 @@ Active Life Physiotherapy Clinic (ALPT) stands out as a leader in the field of p
     <br />
     <sub><b>Hesham Tamer</b></sub></a>
     </td>
-      </tr>
- </table>
+    <td align="center">
+    <a href="https://github.com/Omarnbl" target="_black">
+    <img src="https://github.com/Omarnbl.png" width="150px;" alt="Omar Nabil"/>
+    <br />
+    <sub><b>Omar Nabil</b></sub></a>
+    </td>
+  </tr>
+</table>
+
